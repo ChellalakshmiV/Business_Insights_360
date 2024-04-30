@@ -44,35 +44,34 @@ Before diving into the dashboard development, it's important to address some que
 
 ### Main Features:
 
-- Home view
-- Finance View
-- Sales View
-- Marketing View
-- Supply Chain View
-- Executive View
-- Sales Trend (Tooltip)
+- **Home view:** Presented all available views from the report, allowing users to toggle between each one.
+- **Finance View:** Delved into detailed financial metrics, encompassing revenue, expenses, and profit margins. Evaluated key performance indicators such as Net Sales, Gross Margin %, and Net Profit %. Developed a comprehensive Profit and Loss Statement showcasing year-over-year growth.
+- **Sales View:** Provided a deeper understanding of product and customer performance. Explored Customer Performance metrics based on Net Sales and Gross Margin.
+- **Marketing View:** Augmented marketing strategies with segmented performance insights and Net Profit metrics.
+- **Supply Chain View:** Identified optimization opportunities for efficient supply chain management. Analysed variances between Actual Sales and Forecast accuracy.
+- **Executive View:** Presented critical metrics tailored for top-level decision-makers. Examined yearly trends in revenue, Gross Margin %, Net Profit %, and Market Share %. Highlighted the top 5 Customers & Products contributing to revenue.
+- **Sales Trend (Tooltip)**
 
 **Home view:**
 
 ![Home view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/f2363fd5-723c-43f7-9875-f3c22ce6edef)
 
-**Finance View:** Delved into detailed financial metrics, encompassing revenue, expenses, and profit margins. Evaluated key performance indicators such as Net Sales, Gross Margin %, and Net Profit %. Developed a comprehensive Profit and Loss Statement showcasing year-over-year growth.
+**Finance View:**
 
 ![Finance view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/d71a69c2-e4da-43f6-a413-933d7fc5015d)
 
-**Sales View:** Provided a deeper understanding of product and customer performance. Explored Customer Performance metrics based on Net Sales and Gross Margin.
-
+**Sales View:**
 ![Sales view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/92dfd27d-c18b-4436-bf92-4427aff42617)
 
-**Marketing View:** Augmented marketing strategies with segmented performance insights and Net Profit metrics.
+**Marketing View:** 
 
 ![Marketing view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/913fb09b-0a76-4aab-a82d-4b81894c7d4e)
 
- **Supply Chain View:** Identified optimization opportunities for efficient supply chain management. Analysed variances between Actual Sales and Forecast accuracy.
+ **Supply Chain View:** 
 
  ![Supply chain view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/c227db2b-540f-44ca-8363-7e7076f4bb50)
 
- **Executive View:** Presented critical metrics tailored for top-level decision-makers. Examined yearly trends in revenue, Gross Margin %, Net Profit %, and Market Share %. Highlighted the top 5 Customers & Products contributing to revenue.
+ **Executive View:**
 
  ![Executive view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/326c57eb-6db8-410a-9ec8-bc6a400a1f42)
 
