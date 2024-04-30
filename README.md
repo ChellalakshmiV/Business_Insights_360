@@ -40,7 +40,44 @@ Before diving into the dashboard development, it's important to address some que
     
 ### Data model:
 
-![Data model](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/6ca04b88-3a10-477f-89e2-54cc85c862aa)
+![Data model](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/8fc413df-54cc-4cad-b9af-fbaa935941ea)
 
+### Main Features:
+
+- Home view
+- Finance View
+- Sales View
+- Marketing View
+- Supply Chain View
+- Executive View
+- Sales Trend (Tooltip)
+
+**Home view:**
+
+![Home view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/f2363fd5-723c-43f7-9875-f3c22ce6edef)
+
+**Finance View:** Delved into detailed financial metrics, encompassing revenue, expenses, and profit margins. Evaluated key performance indicators such as Net Sales, Gross Margin %, and Net Profit %. Developed a comprehensive Profit and Loss Statement showcasing year-over-year growth.
+
+![Finance view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/d71a69c2-e4da-43f6-a413-933d7fc5015d)
+
+**Sales View:** Provided a deeper understanding of product and customer performance. Explored Customer Performance metrics based on Net Sales and Gross Margin.
+
+![Sales view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/92dfd27d-c18b-4436-bf92-4427aff42617)
+
+**Marketing View:** Augmented marketing strategies with segmented performance insights and Net Profit metrics.
+
+![Marketing view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/913fb09b-0a76-4aab-a82d-4b81894c7d4e)
+
+ **Supply Chain View:** Identified optimization opportunities for efficient supply chain management. Analysed variances between Actual Sales and Forecast accuracy.
+
+ ![Supply chain view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/c227db2b-540f-44ca-8363-7e7076f4bb50)
+
+ **Executive View:** Presented critical metrics tailored for top-level decision-makers. Examined yearly trends in revenue, Gross Margin %, Net Profit %, and Market Share %. Highlighted the top 5 Customers & Products contributing to revenue.
+
+ ![Executive view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/326c57eb-6db8-410a-9ec8-bc6a400a1f42)
+
+**Sales Trend (Tooltip):**
+
+![Sales Trend Tooltip](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/405e2ff5-4399-47f5-ae3d-8bf706a8f694)
 
 
