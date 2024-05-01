@@ -1,35 +1,6 @@
 # Business Insights 360
 
-### Table of Contents:
-
-- [Project Overview](project-overview)
-- [Data Sources](data-sources)
-- [Project Toolset Overview](project-toolset-overview)
-- [AtliQ Hardware's Data-Driven Evolution](atliQ-hardware's-data--driven-evolution)
-- [Project Kick-Off Meeting - Creation of Project-Charter](project-kick--off-meeting--creation-of-project--charter)
-- [Data model](data-model)
-- [Main Features](main-features)
-- [Insights](insights)
-
-  - [Financial Highlights](financial-highlights)
-  - [Profitability Challenges](profitability-challenges)
-  - [Profit Decline Concern](profit-decline-concern)
-  - [Regional Profit Analysis](regional-profit-analysis)
-  - [Customer Preference](customer-preference)
-  - [Product Preference](product-preference)
-    
-- [Recommendations](recommendations)
-
-- [Home view](home-view)
-- [Finance View](finance-view)
-- [Sales View](sales-view)
-- [Marketing View](marketing-view)
-- [Supply Chain View](supply-chain-view)
-- [Executive View](executive-view)
-- [Sales Trend (Tooltip)](sales-trend-(tooltip))
-
 ### Project Overview:
----
 
 AtliQ Hardware is a hardware company supplying products like PCs, mice, and printers to various retailers such as BestBuy, Chroma, Staples, and online platforms like Amazon and Flipkart. These retailers then sell the hardware to end consumers through brick-and-mortar stores or e-commerce platforms and operates through three channels: retailer, direct, and distributor, catering to both physical and online sales channels. The company is growing rapidly and has decided to start using Power BI for data analytics. This decision is aimed at staying ahead of competitors and making decisions based on data. The project will focus on answering questions from stakeholders in finance, sales, marketing, and supply chain departments.
 
@@ -66,10 +37,6 @@ Before diving into the dashboard development, it's important to address some que
 9. **Risk:** What are the potential risks and uncertainties associated with this project?
 10. **Stakeholder mock-up preference:** Can you share any mock-up dashboard of each page view?
     
-### Data model:
-
-![Data model](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/8fc413df-54cc-4cad-b9af-fbaa935941ea)
-
 ### Main Features:
 
 - **Home view:** Presented all available views from the report, allowing users to toggle between each one.
@@ -115,7 +82,11 @@ Based on the following analysis, the recommended actions are,
 3. **Operational Efficiency Strategy:** Continuously monitor and adjust advertising and operational expenses in regions like APAC to ensure efficient utilization of resources and maximize profitability.
 4. **Customer Focus:** Further analyze the customer preferences and tailor marketing strategies to capitalize on top-performing customer segments like Amazon, AtliQ Exclusive, and AtliQ eStore for maintaining the consistency in gross margin performance.
 
-Below are the views of my dashboard report.
+Below are the  data model and all other views of my dashboard report.
+
+### Data model:
+
+![Data model](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/8fc413df-54cc-4cad-b9af-fbaa935941ea)
 
 **Home view:**
 
