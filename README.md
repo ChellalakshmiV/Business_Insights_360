@@ -1,5 +1,33 @@
 # Business Insights 360
 
+### Table of Contents:
+
+- [Project Overview](project-overview)
+- [Data Sources](data-sources)
+- [Project Toolset Overview](project-toolset-overview)
+- [AtliQ Hardware's Data-Driven Evolution](atliQ-hardware's-data--driven-evolution)
+- [Project Kick-Off Meeting - Creation of Project-Charter](project-kick--off-meeting--creation-of-project--charter)
+- [Data model](data-model)
+- [Main Features](main-features)
+- [Insights](insights)
+
+  - [Financial Highlights](financial-highlights)
+  - [Profitability Challenges](profitability-challenges)
+  - [Profit Decline Concern](profit-decline-concern)
+  - [Regional Profit Analysis](regional-profit-analysis)
+  - [Customer Preference](customer-preference)
+  - [Product Preference](product-preference)
+    
+- [Recommendations](recommendations)
+
+- [Home view](home-view)
+- [Finance View](finance-view)
+- [Sales View](sales-view)
+- [Marketing View](marketing-view)
+- [Supply Chain View](supply-chain-view)
+- [Executive View](executive-view)
+- [Sales Trend (Tooltip)](sales-trend-(tooltip))
+
 ### Project Overview:
 ---
 
