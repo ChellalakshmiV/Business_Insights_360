@@ -52,6 +52,34 @@ Before diving into the dashboard development, it's important to address some que
 - **Executive View:** Presented critical metrics tailored for top-level decision-makers. Examined yearly trends in revenue, Gross Margin %, Net Profit %, and Market Share %. Highlighted the top 5 Customers & Products contributing to revenue.
 - **Sales Trend (Tooltip)**
 
+### Insights:
+### Analysis of Business Performance: Understanding the Dynamics Behind Revenue Growth and Profit Decline
+
+**Financial Highlights:**
+- In 2020, the company experienced a substantial increase in net sales, reaching ₹267.98 million, marking a remarkable 140.61% surge compared to 2019. While this growth in net sales is commendable, a deeper analysis reveals a concerning trend.
+- Despite a significant 116.66% increase in gross margin compared to the previous year, there was a notable decline in net profit, plummeting by ₹4.75 million, representing a staggering 193% decrease from 2019.
+
+**Profitability Challenges:**
+- Upon closer examination, it becomes evident that this decline in net profit can be attributed to a considerable rise in operational expenses, amounting to over ₹58 million more than the expenses incurred in the preceding year.
+- This underscores the need for strategic management of expenses to maintain profitability.
+
+**Profit Decline Concern:** 
+- In 2021, while both net sales and gross margin experienced impressive growth, exceeding 200%, there was a significant concern regarding net profit.
+- It dropped to ₹54 million, marking a drastic 2286% decrease compared to the previous year.
+- This sharp decline underscores the critical importance of monitoring and addressing net profit, a pivotal metric for assessing the company's growth trajectory.
+
+**Regional Profit Analysis:**
+- In 2021, the company experienced notable challenges in net profit, particularly in the APAC and NA regions. Within the APAC region, India saw a significant decline, possibly due to excessive spending on advertisements and operational expenses, which surpassed ₹119 million.
+- Similarly, in the NA region, there was a decline in net profit, with a difference of ₹23 million compared to the previous year. Further analysis suggests a need to examine sales and expenses related to the notebook segment in the USA region.
+
+**Customer Preference:**
+- Across all years, Amazon, AtliQ Exclusive, and AtliQ eStore consistently alternate as the top customers, securing the top positions in the list due to their significant contribution to gross margin.
+
+**Product Preference:**
+- The notebook segment stands out as the leading product category, generating the highest gross margin for the company.
+
+Below are the views of my dashboard report.
+
 **Home view:**
 
 ![Home view](https://github.com/ChellalakshmiV/Business_Insights_360/assets/162456368/f2363fd5-723c-43f7-9875-f3c22ce6edef)
