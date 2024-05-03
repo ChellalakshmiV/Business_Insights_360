@@ -77,7 +77,7 @@ Before diving into the dashboard development, it's important to address some que
 
 Based on the following analysis, the recommended actions are,
 
-1. **Cost Management:** Implement measures to control operational expenses, particularly in regions where significant overspending is observed, to improve overall profitability.
+1. **Cost Management:** Implement measures to control expenses, particularly in regions where significant overspending is observed, to improve overall profitability.
 2. **Product Strategy:** Capitalize on the popularity of the notebook segment by investing in product innovation, marketing, and distribution channels to maximize gross margin and overall revenue.to address the decline in net profit observed in the NA region.
 3. **Operational Efficiency Strategy:** Continuously monitor and adjust advertising and operational expenses in regions like APAC to ensure efficient utilization of resources and maximize profitability.
 4. **Customer Focus:** Further analyze the customer preferences and tailor marketing strategies to capitalize on top-performing customer segments like Amazon, AtliQ Exclusive, and AtliQ eStore for maintaining the consistency in gross margin performance.
