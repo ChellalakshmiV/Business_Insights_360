@@ -6,7 +6,7 @@ AtliQ Hardware is a hardware company supplying products like PCs, mice, and prin
 
 ### Live Dashboard:
 
-Explore the live dashboard: 
+Explore the live dashboard: https://app.powerbi.com/view?r=eyJrIjoiMjgxZGU0NDctNGViZC00NDU1LWIzMTgtY2ZiM2Y2ZmY4MmQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Data Sources:
 
