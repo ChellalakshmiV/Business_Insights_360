@@ -4,10 +4,9 @@
 
 AtliQ Hardware is a hardware company supplying products like PCs, mice, and printers to various retailers such as BestBuy, Chroma, Staples, and online platforms like Amazon and Flipkart. These retailers then sell the hardware to end consumers through brick-and-mortar stores or e-commerce platforms and operates through three channels: retailer, direct, and distributor, catering to both physical and online sales channels. The company is growing rapidly and has decided to start using Power BI for data analytics. This decision is aimed at staying ahead of competitors and making decisions based on data. The project will focus on answering questions from stakeholders in finance, sales, marketing, and supply chain departments.
 
-### Live Dashboard:
+### Exploring Links:
 
-Explore the live dashboard: 
-[Project Link](https://app.powerbi.com/view?r=eyJrIjoiMjgxZGU0NDctNGViZC00NDU1LWIzMTgtY2ZiM2Y2ZmY4MmQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+Explore the live dashboard: [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjgxZGU0NDctNGViZC00NDU1LWIzMTgtY2ZiM2Y2ZmY4MmQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ### Data Sources:
 
